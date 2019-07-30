@@ -1,4 +1,4 @@
-public class hello{
+public class loop{
 	static void printhello(int b){
 		for(int i=0;i<b;i++)
 			System.out.println("hello");
